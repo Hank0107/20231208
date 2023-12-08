@@ -5,3 +5,4 @@ hihihihihi
 okokokok
 asd
 sdasd
+/logout.txt
